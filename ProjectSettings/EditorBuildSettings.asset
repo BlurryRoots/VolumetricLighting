@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/UnityVolumetrics/Scenes/Area light.unity
+  - enabled: 0
+    path: Assets/Demo/Demo.unity
+  - enabled: 1
+    path: Assets/Demo/Scenes/centercube.unity
