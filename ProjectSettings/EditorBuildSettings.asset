@@ -9,5 +9,5 @@ EditorBuildSettings:
     path: Assets/UnityVolumetrics/Scenes/Area light.unity
   - enabled: 0
     path: Assets/Demo/Demo.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Demo/Scenes/centercube.unity
